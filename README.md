@@ -1,28 +1,21 @@
-# co24a440396ee0615bdb77197
+# Tenzies
 
-Quick start:
+## About
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+This project mimics the game Tenzi. There are ten dice and the user has to roll them so, that every die shows the same number in the shortest time possible. The user can "hold" dice, they do not want to roll. The app also keeps track of user's best time and lowest number of dice rolls.
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+The project is built using HTML 5, CSS 3, JavaScript and React.
 
-```
-$ yarn watch # npm run watch
-```
+## Link
 
-## About Scrimba
+**https://grand-boba-974961.netlify.app/**
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Screenshots
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/5972519e-deeb-4379-b43d-c471133fd9e7)
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/9bc9c9cf-ee30-450e-b6e5-0e039bd834ad)
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/02fc341a-38c3-41ed-ab88-78e818d3263e)
 
-Happy Coding!
+
+<sub>This project is built as a guided one in Scrimba's React course.</sub>
