@@ -2,7 +2,7 @@
 
 ## About
 
-This project mimics the game Tenzi. There are ten dice and the user has to roll them so, that every die shows the same number in the shortest time possible. The user can "hold" dice, they do not want to roll. The app also keeps track of user's best time and lowest number of dice rolls.
+This project mimics the game Tenzi. There are ten dice and the user has to roll them so that every die shows the same number in the shortest time possible. The user can "hold" dice, they do not want to roll. The app also keeps track of user's best time and lowest number of dice rolls.
 
 
 The project is built using HTML 5, CSS 3, JavaScript and React.
@@ -13,9 +13,8 @@ The project is built using HTML 5, CSS 3, JavaScript and React.
 
 ## Screenshots
 
-![image](https://github.com/mrsklg/Tenzies/assets/100710286/5972519e-deeb-4379-b43d-c471133fd9e7)
-![image](https://github.com/mrsklg/Tenzies/assets/100710286/9bc9c9cf-ee30-450e-b6e5-0e039bd834ad)
-![image](https://github.com/mrsklg/Tenzies/assets/100710286/02fc341a-38c3-41ed-ab88-78e818d3263e)
-
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/ee21c736-bd22-41c6-be89-787ae8904ca2)
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/100bba59-9899-4c79-877a-8bea3d5e8bf2)
+![image](https://github.com/mrsklg/Tenzies/assets/100710286/f0965bff-c68d-4823-9267-a2ec62c079cf)
 
 <sub>This project is built as a guided one in Scrimba's React course.</sub>
