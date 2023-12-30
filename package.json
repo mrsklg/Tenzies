@@ -12,7 +12,7 @@
     "babel-preset-env": "*",
     "babel-preset-react": "*",
     "babel-preset-stage-0": "^6.24.1",
-    "webpack": "^2.0"
+    "webpack": "^5.89"
   },
   "scripts": {
     "build": "webpack",
